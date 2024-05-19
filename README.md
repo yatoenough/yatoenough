@@ -7,7 +7,7 @@
 
 I'm a Backend developer from Ukraine, crafting web experiences with a cup of strong coffee (or fragrant tea) in hand☕
 
-  - 🌱 Currently learning Node.js and Golang for a backend
+  - 🌱 Currently learning Node.js and Golang for a backend development
   - 🎸 In my free time, i solve LeetCode problems, playing some guitar and learning new stuff
   - 📱 Contact me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yatoenough) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yatoenough)
     
