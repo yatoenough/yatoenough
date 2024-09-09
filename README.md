@@ -1,17 +1,11 @@
-<div align="center">
-  <h1>Hi there!</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5qdnhmY3A0dThudGhtOHRubGdrN2hjb2p2M3BrcGNyMTBna3ZqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K2QJEiQazftepF0uDU/giphy.gif" width="300px">
-</div>
+<h1>Hey!</h1>
 
 ### ℹ️ About me:
 
-I'm a Backend developer from Ukraine, crafting web experiences with a cup of strong coffee (or fragrant tea) in hand☕
+I'm a Backend developer from Ukraine, crafting web experiences with a cup of tea in hand☕
 
-  - 🌱 Currently learning Node.js and Golang for a backend development
-  - 🎸 In my free time, i solve LeetCode problems, playing some guitar and learning new stuff
+  - 🌱 Currently learning Node.js and Golang
   - 📱 Contact me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yatoenough) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yatoenough) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yatoenoughh)
-    
-Feel free to reach out! 🌃
 
 ### :hammer_and_wrench: Languages and Tools i used/using:
 
