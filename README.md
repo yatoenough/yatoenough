@@ -2,8 +2,7 @@
 
 ### ℹ️ About me:
 
-I'm a backend developer from Ukraine with small experience in frontend and mobile development, crafting web experiences with a cup of tea in hand☕
-  - 🌱 Currently learning Node.js and Golang
+I'm a backend developer from Ukraine with small experience in frontend and mobile development
 
 ### 📱 Contact me: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yatoenough)
