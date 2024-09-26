@@ -2,13 +2,13 @@
 
 ### ℹ️ About me:
 
-I'm a backend developer from Ukraine with small experience in frontend and mobile development
+I am 18 years old software developer, currently learning mobile development with experience in backend development on Node.js, NestJS, Go
 
 ### 📱 Contact me: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yatoenough)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yatoenough)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yatoenoughh)
 
+...or via email(in profile description)
 ### :hammer_and_wrench: Technologies which i using/familiar with:
 
 <div align="center">
