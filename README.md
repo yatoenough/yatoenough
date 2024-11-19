@@ -2,7 +2,7 @@
 
 ### ℹ️ About me:
 
-I am 18 years old software developer, currently learning mobile development with experience in backend development on Node.js, NestJS, Go
+I am 18 years old software developer, currently learning mobile development on Flutter, Dart and Swift with experience in backend development on Node.js, NestJS, Go
 
 ### 📱 Contact me: 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yatoenough)
