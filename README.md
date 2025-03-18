@@ -1,4 +1,4 @@
-# Hi, I'm Nikita 👋
+# Welcome! 👋
 
 I’m a passionate **iOS Developer** with a background in **backend development** (Go, Node.js). I love building sleek, efficient, and user-friendly applications.
 
