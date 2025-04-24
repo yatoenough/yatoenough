@@ -8,7 +8,7 @@ I’m a passionate **iOS Developer** with a background in **backend development*
 
 ### ⚡ Tech Stack
 
-- **Mobile:** Swift, Dart SwiftUI, Flutter
+- **Mobile:** Swift, Dart, SwiftUI, UIKit, Flutter
 - **Backend:** Go, Node.js, NestJS
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - **Tools:** Xcode, Docker, Git, Zed, JetBrains IDEs, VS Code, Slack
