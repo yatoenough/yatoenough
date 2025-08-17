@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  
+  ```
+   _          _ _         _   _                   _
+  | |__   ___| | | ___   | |_| |__   ___ _ __ ___| |
+  | '_ \ / _ \ | |/ _ \  | __| '_ \ / _ \ '__/ _ \ |
+  | | | |  __/ | | (_) | | |_| | | |  __/ | |  __/_|
+  |_| |_|\___|_|_|\___/   \__|_| |_|\___|_|  \___(_)
+  ```
+  
+  i’m an **iOS Developer** with a background in **backend development** (Go, Node.js)
 
-<!--
-**yatoenough/yatoenough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatoenough&layout=compact&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatoenough&show_icons=true&theme=dark&hide_title=true)
+  
+  ## tech stack
 
-Here are some ideas to get you started:
+  Swift • Dart • Go 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  SwiftUI • UIKit • Flutter • CoreData • SwiftData • GRDB • Node.js • NestJS
+  
+  SQLite • PostgreSQL • MySQL • MongoDB • Redis
+  
+  Xcode • Docker • Git • Zed • JetBrains IDEs • VSCode • Obsidian • Claude • ChatGPT
+
+</div>
