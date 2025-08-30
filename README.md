@@ -8,8 +8,8 @@
   |_| |_|\___|_|_|\___/   \__|_| |_|\___|_|  \___(_)
   ```
   
-  i’m an **iOS Developer** with a background in **backend development** (Go, Node.js),<br/>
-  who enjoys build **iOS** apps with **Swift** and **Dart** and CLI tools in **Go** and **Rust**.
+  **iOS Developer** with a background in **backend development** (Go, Node.js),<br/>
+  who enjoys build apps with **Swift** and **Flutter** and CLI tools in **Rust**.
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatoenough&layout=compact&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatoenough&show_icons=true&theme=dark&hide_title=true)
   
