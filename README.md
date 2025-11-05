@@ -16,12 +16,14 @@
   
   ## tech stack
 
-  Swift • Dart • Go
+  Swift • Dart • Go • Rust • JS/TS
 
   SwiftUI • UIKit • Flutter • Riverpod • CoreData • SwiftData • Node.js • NestJS
+
+  HTTP • gRPC • GraphQL • REST
   
   SQLite • PostgreSQL • MySQL • MongoDB • Redis
   
-  Xcode • Docker • Git • Zed • JetBrains IDEs • VSCode • Claude • ChatGPT • Gemini
+  Xcode • Docker • Git • Zed • JetBrains IDEs • VSCode • Claude • ChatGPT • Gemini • MCP
 
 </div>
