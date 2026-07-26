@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  
+```
+             _                                     _
+     _   _  __ _| |_ ___   ___ _ __   ___  _   _  __ _| |__
+     | | | |/ _` | __/ _ \ / _ | '_ \ / _ \| | | |/ _` | '_ \
+      | |_| | (_| | || (_) |  __| | | | (_) | |_| | (_| | | | |
+      \__, |\__,_|\__\___/ \___|_| |_|\___/ \__,_|\__, |_| |_|
+|___/                                       |___/
+```
 
-<!--
-**yatoenough/yatoenough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+Software Developer focused on backend (Go, Node.js, Rust) and mobile applications (Flutter, SwiftUI).
+Interested in AI and ML, Seeking for opportunities to gain hands-on professional experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Work With
+
+* **Backend & Systems:** Go (Golang), Node.js / TypeScript, REST APIs, gRPC, Rust
+* **Mobile Development:** Flutter (Dart), Swift (UIKit/SwiftUI) 
+* **Databases & Storage:** PostgreSQL, Redis, MongoDB, SQLite
+* **DevOps & Tools:** Docker, Git, CI/CD, Linux, Neovim, Xcode
+
+### Let's Connect
+
+* **GitHub:** [@yatoenough](https://github.com/yatoenough)
+* **LinkedIn:** [yatoenough](https://www.linkedin.com/in/yatoenough/)
+* **Email:** yatoenough@gmail.com
