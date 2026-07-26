@@ -12,7 +12,7 @@
 </div>
 
 Software Developer focused on backend (Go, Node.js, Rust) and mobile applications (Flutter, SwiftUI).
-Interested in AI and ML, Seeking for opportunities to gain hands-on professional experience
+Interested in systems and low-level programming, seeking for opportunities to gain hands-on professional experience
 
 ---
 
