@@ -25,6 +25,5 @@ Interested in systems and low-level programming, seeking for opportunities to ga
 
 ### Let's Connect
 
-* **GitHub:** [@yatoenough](https://github.com/yatoenough)
 * **LinkedIn:** [yatoenough](https://www.linkedin.com/in/yatoenough/)
 * **Email:** yatoenough@gmail.com
