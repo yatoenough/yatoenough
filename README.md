@@ -21,7 +21,7 @@ Interested in systems and low-level programming, seeking for opportunities to ga
 * **Backend & Systems:** Go (Golang), Node.js / TypeScript, REST APIs, gRPC, Rust
 * **Mobile Development:** Flutter (Dart), Swift (UIKit/SwiftUI) 
 * **Databases & Storage:** PostgreSQL, Redis, MongoDB, SQLite
-* **DevOps & Tools:** Docker, Git, CI/CD, Linux, Neovim, Xcode
+* **DevOps & Tools:** Docker, Git, CI/CD, Linux, Nix, Neovim, Xcode, Zed
 
 ### Let's Connect
 
