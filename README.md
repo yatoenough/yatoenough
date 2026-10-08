@@ -17,7 +17,7 @@ Software Developer and student. Interested in systems and low-level programming,
 
 ### What I Work With
 
-* **Backend & Systems:** Go (Golang), Node.js + TypeScript, Java, C#, Rust
+* **Backend & Systems:** Go (Golang), Node.js + TypeScript, Swift, Java, C#, Rust
 * **Mobile Development:** Flutter (Dart), Swift (UIKit/SwiftUI) 
 * **Databases & Storage:** PostgreSQL, MariaDB, Redis, MongoDB, SQLite
 * **DevOps & Tools:** Docker, Git, CI/CD, Linux, Nix, Neovim, Xcode, Zed, gRPC
